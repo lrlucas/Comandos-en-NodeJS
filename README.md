@@ -1,5 +1,7 @@
 # Proyecto Comandos NodeJS
 
+#### Ejecutar primero `npm install`
+
 Ejecutar el siguiente comando  
 `node app.js listar --limite 10 --base 3`
 el comando lo que hara sera Mostrar en consola una tabla de multiplicar con la siguiente estructura
